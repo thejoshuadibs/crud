@@ -1,13 +1,5 @@
-Blah 1
+## Crud Project Using HTML, CSS and JS
 
-Welcome to Gboard clipboard, any text you copy will be saved here.Touch and hold a clip to pin it. Unpinned clips will be deleted after 1 hour.Touch and hold a clip to pin it. Unpinned clips will be deleted after 1 hour.Use the edit icon to pin, add or delete clips.Tap on a clip to paste it in the text box.the secrets of scaling your businesses.
+IT is just a simulation where you add profile cards. Just check it out and say if it makes sense or not.
 
-Blah 2
-
-Welcome to Gboard clipboard, any text you copy will be saved here.Touch and hold a clip to pin it. Unpinned clips will be deleted after 1 hour.Touch and hold a clip to pin it. Unpinned clips will be deleted after 1 hour.Use the edit icon to pin, add or delete clips.Tap on a clip to paste it in the text box.the secrets of scaling your businesses.
-
-Blah 3
-
-Welcome to Gboard clipboard, any text you copy will be saved here.Touch and hold a clip to pin it. Unpinned clips will be deleted after 1 hour.Touch and hold a clip to pin it. Unpinned clips will be deleted after 1 hour.Use the edit icon to pin, add or delete clips.Tap on a clip to paste it in the text box.the secrets of scaling your businesses.
-
-Blah blah blah.
+If it doesn't it ain't a big deal. It's just a CRUD flex!
